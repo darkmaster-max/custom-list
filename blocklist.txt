@@ -1,9 +1,9 @@
-||api.github.com/_private/browser/rum?
-||api.github.com/_private/browser/stats$important
+||api.github.com/_private/browser/rum?^
+||api.github.com/_private/browser/stats$important^
 ||ad.intl.xiaomi.com^
 ||collector.github.com^
-||youtube.com/youtubei/v1/log_event?
+||youtube.com/youtubei/v1/log_event?^
 ||amazon-adsystem.com^
 ||prebid-*.rubiconproject.com^
-||google.com/log?$redirect=nooptext
-||a.nel.cloudflare.com/report/
+||google.com/log?$redirect=nooptext^
+||a.nel.cloudflare.com/report/^
