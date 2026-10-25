@@ -2,3 +2,6 @@
 ||api.github.com/_private/browser/stats$important
 ||ad.intl.xiaomi.com^
 ||collector.github.com^
+||youtube.com/youtubei/v1/log_event?
+||amazon-adsystem.com^
+||prebid-*.rubiconproject.com^
