@@ -5,3 +5,4 @@
 ||youtube.com/youtubei/v1/log_event?
 ||amazon-adsystem.com^
 ||prebid-*.rubiconproject.com^
+||google.com^
