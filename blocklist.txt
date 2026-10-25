@@ -1,2 +1,4 @@
 ||api.github.com/_private/browser/rum?
 ||api.github.com/_private/browser/stats$important
+||ad.intl.xiaomi.com^
+||collector.github.com^
