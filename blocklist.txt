@@ -5,7 +5,6 @@
 ||youtube.com/youtubei/v1/log_event?
 ||amazon-adsystem.com^
 ||prebid-*.rubiconproject.com^
-||google.com^
 ||google.com/log?$redirect=nooptext
 ||a.nel.cloudflare.com/report/
 ||haberler.com^
