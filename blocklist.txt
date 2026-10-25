@@ -7,4 +7,3 @@
 ||prebid-*.rubiconproject.com^
 ||google.com/log?$redirect=nooptext
 ||a.nel.cloudflare.com/report/
-||haberler.com^
