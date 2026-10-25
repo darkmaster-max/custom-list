@@ -1,1 +1,2 @@
 ||api.github.com/_private/browser/rum?
+||api.github.com/_private/browser/stats$important
