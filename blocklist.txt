@@ -29,3 +29,5 @@
 ||$app=com.miui.analytics
 ||app.adjust.world^
 ||pagead2.googlesyndication.com^
+||tracking.*.miui.com^
+||app.adjust.com^$~third-party
