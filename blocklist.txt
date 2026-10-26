@@ -13,7 +13,6 @@
 ||prebid-*.rubiconproject.com^
 ||tpc.googlesyndication.com^
 ||federatedcompute-pa.googleapis.com^
-||ad.intl.xiaomi.com^
 ||collector.github.com^
 ||youtube.com/youtubei/v1/log_event?^
 ||amazon-adsystem.com^
@@ -34,7 +33,6 @@
 ||api.github.com/_private^
 ||api.github.com/_private/browser/rum?^
 ||api.github.com/_private/browser/stats$important^
-||ad.intl.xiaomi.com^
 ||collector.github.com^
 ||youtube.com/youtubei/v1/log_event?^
 ||amazon-adsystem.com^
@@ -48,7 +46,7 @@
 ||federatedcompute-pa.googleapis.com^
 |||api.github.com/_private/browser/rum?^
 ||api.github.com/_private/browser/stats$important^
-||ad.intl.xiaomi.com^
+
 ||collector.github.com^
 ||youtube.com/youtubei/v1/log_event?^
 ||amazon-adsystem.com^
@@ -67,3 +65,4 @@
 ||metricreceiver.cellrebel.com^
 ||xy.fbcdn.net^
 ||$app=com.miui.analytics^
+||sdkconfig.ad.intl.xiaomi.com^
