@@ -31,3 +31,4 @@
 ||pagead2.googlesyndication.com^
 ||tracking.*.miui.com^
 ||app.adjust.com^$~third-party
+||metricreceiver.cellrebel.com^
