@@ -53,3 +53,5 @@
 ||google-analytics.com^
 ||googlesyndication.com^
 ||connect.facebook.net^$third-party,domain=~facebook.com|~fb.com
+||gvt2.com^
+||beacons*.gvt3.com^
