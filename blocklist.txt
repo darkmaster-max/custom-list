@@ -57,3 +57,4 @@
 ||beacons*.gvt3.com^
 ||mc.yandex.ru^
 ||analytics.tiktok.com^
+||inf.miui.com^
