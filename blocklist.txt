@@ -55,3 +55,4 @@
 ||app-measurement.com^
 ||google-analytics.com^
 ||googlesyndication.com^
+||connect.facebook.net^$third-party,domain=~facebook.com|~fb.com
