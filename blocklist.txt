@@ -55,3 +55,4 @@
 ||connect.facebook.net^$third-party,domain=~facebook.com|~fb.com
 ||gvt2.com^
 ||beacons*.gvt3.com^
+||mc.yandex.ru^
