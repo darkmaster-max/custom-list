@@ -56,3 +56,4 @@
 ||$app=com.miui.analytics^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||app-measurement.com^
+||google-analytics.com^
