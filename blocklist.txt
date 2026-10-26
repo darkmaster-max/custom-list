@@ -16,7 +16,6 @@
 ||youtube.com/youtubei/v1/log_event?^
 ||google.com/log?$redirect=nooptext^
 ||a.nel.cloudflare.com/report/^
-||doubleclick.net^
 ||mobile-data.onetrust.io^
 ||tpc.googlesyndication.com^
 ||federatedcompute-pa.googleapis.com^
@@ -33,7 +32,6 @@
 ||youtube.com/youtubei/v1/log_event?^
 ||google.com/log?$redirect=nooptext^
 ||a.nel.cloudflare.com/report/^
-||doubleclick.net^
 ||mobile-data.onetrust.io^
 ||tpc.googlesyndication.com^
 ||federatedcompute-pa.googleapis.com^
@@ -43,7 +41,6 @@
 ||youtube.com/youtubei/v1/log_event?^
 ||google.com/log?$redirect=nooptext^
 ||a.nel.cloudflare.com/report/^
-||doubleclick.net^
 ||mobile-data.onetrust.io^
 ||tpc.googlesyndication.com^
 ||federatedcompute-pa.googleapis.com^
