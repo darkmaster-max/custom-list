@@ -15,7 +15,6 @@
 ||collector.github.com^
 ||youtube.com/youtubei/v1/log_event?^
 ||google.com/log?$redirect=nooptext^
-||a.nel.cloudflare.com/report/^
 ||mobile-data.onetrust.io^
 ||tpc.googlesyndication.com^
 ||federatedcompute-pa.googleapis.com^
@@ -31,7 +30,6 @@
 ||collector.github.com^
 ||youtube.com/youtubei/v1/log_event?^
 ||google.com/log?$redirect=nooptext^
-||a.nel.cloudflare.com/report/^
 ||mobile-data.onetrust.io^
 ||tpc.googlesyndication.com^
 ||federatedcompute-pa.googleapis.com^
@@ -40,7 +38,6 @@
 ||collector.github.com^
 ||youtube.com/youtubei/v1/log_event?^
 ||google.com/log?$redirect=nooptext^
-||a.nel.cloudflare.com/report/^
 ||mobile-data.onetrust.io^
 ||tpc.googlesyndication.com^
 ||federatedcompute-pa.googleapis.com^
