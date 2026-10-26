@@ -10,3 +10,4 @@
 ||doubleclick.net^
 ||mobile-data.onetrust.io^
 ||prebid-*.rubiconproject.com^
+||tpc.googlesyndication.com^
