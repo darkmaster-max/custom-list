@@ -11,3 +11,4 @@
 ||mobile-data.onetrust.io^
 ||prebid-*.rubiconproject.com^
 ||tpc.googlesyndication.com^
+||federatedcompute-pa.googleapis.com^
