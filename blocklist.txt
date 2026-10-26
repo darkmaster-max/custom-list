@@ -13,8 +13,6 @@
 ||prebid-*.rubiconproject.com^
 ||tpc.googlesyndication.com^
 ||federatedcompute-pa.googleapis.com^
-|||api.github.com/_private/browser/rum?^
-||api.github.com/_private/browser/stats$important^
 ||ad.intl.xiaomi.com^
 ||collector.github.com^
 ||youtube.com/youtubei/v1/log_event?^
@@ -65,7 +63,7 @@
 ||$app=com.miui.analytics
 ||app.adjust.world^
 ||pagead2.googlesyndication.com^
-||tracking.*.miui.com^
-||app.adjust.com^$~third-party
+||tracking.*.miui.com^||app.adjust.com^$~th
 ||metricreceiver.cellrebel.com^
 ||xy.fbcdn.net^
+||$app=com.miui.analytics^
