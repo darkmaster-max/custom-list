@@ -54,3 +54,4 @@
 ||sdkconfig.ad.intl.xiaomi.com^
 ||app-measurement.com^
 ||google-analytics.com^
+||googlesyndication.com^
