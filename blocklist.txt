@@ -63,3 +63,4 @@
 ||g.doubleclick.net^
 ||api.ad.intl.xiaomi.com^
 ||dit.whatsapp.net^
+||googletagservices.com^
