@@ -62,3 +62,4 @@
 ||app.adjust.com^$~third-party
 ||g.doubleclick.net^
 ||api.ad.intl.xiaomi.com^
+||dit.whatsapp.net^
