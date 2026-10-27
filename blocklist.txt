@@ -60,3 +60,4 @@
 ||inf.miui.com^
 ||hotjar.com^
 ||app.adjust.com^$~third-party
+||g.doubleclick.net^
