@@ -66,3 +66,4 @@
 ||.tr/ads/^
 ||safeframe.googlesyndication.com^
 ||litix.io^
+||googletagmanager.com/gtag/$third-party
