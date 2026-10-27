@@ -16,7 +16,6 @@
 ||youtube.com/youtubei/v1/log_event?^
 ||google.com/log?$redirect=nooptext^
 ||mobile-data.onetrust.io^
-||tpc.googlesyndication.com^
 ||federatedcompute-pa.googleapis.com^
 ||$app=com.miui.analytics
 ||app.adjust.world^
@@ -31,7 +30,6 @@
 ||youtube.com/youtubei/v1/log_event?^
 ||google.com/log?$redirect=nooptext^
 ||mobile-data.onetrust.io^
-||tpc.googlesyndication.com^
 ||federatedcompute-pa.googleapis.com^
 |||api.github.com/_private/browser/rum?^
 ||api.github.com/_private/browser/stats$important^
@@ -39,7 +37,6 @@
 ||youtube.com/youtubei/v1/log_event?^
 ||google.com/log?$redirect=nooptext^
 ||mobile-data.onetrust.io^
-||tpc.googlesyndication.com^
 ||federatedcompute-pa.googleapis.com^
 ||app.adjust.world^
 ||pagead2.googlesyndication.com^
