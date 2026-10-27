@@ -63,3 +63,4 @@
 ||netmera.com^
 ||crashlytics.com^
 ||ogads-pa.googleapis.com^
+||.tr/ads/^
