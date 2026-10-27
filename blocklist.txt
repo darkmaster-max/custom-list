@@ -31,7 +31,6 @@
 ||mobile-data.onetrust.io^
 ||federatedcompute-pa.googleapis.com^
 |||api.github.com/_private/browser/rum?^
-||api.github.com/_private/browser/stats$important^
 ||collector.github.com^
 ||google.com/log?$redirect=nooptext^
 ||mobile-data.onetrust.io^
