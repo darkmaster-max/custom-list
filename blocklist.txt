@@ -68,3 +68,4 @@
 ||litix.io^
 ||googletagmanager.com/gtag/$third-party
 ||imasdk.googleapis.com^
+||2cnt.net^
