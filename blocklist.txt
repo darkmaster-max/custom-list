@@ -65,3 +65,4 @@
 ||ogads-pa.googleapis.com^
 ||.tr/ads/^
 ||safeframe.googlesyndication.com^
+||litix.io^
