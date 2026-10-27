@@ -65,3 +65,4 @@
 ||dit.whatsapp.net^
 ||googletagservices.com^
 ||app.adjust.io^
+||netmera.com^
