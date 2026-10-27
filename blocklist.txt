@@ -67,6 +67,4 @@
 ||safeframe.googlesyndication.com^
 ||litix.io^
 ||googletagmanager.com/gtag/$third-party
-||imasdk.googleapis.com^
 ||2cnt.net^
-||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,redirect=noopjs,domain=tabii.com,important
