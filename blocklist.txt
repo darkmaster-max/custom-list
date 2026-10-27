@@ -65,3 +65,4 @@
 ||app.adjust.io^
 ||netmera.com^
 ||crashlytics.com^
+||ogads-pa.googleapis.com^
