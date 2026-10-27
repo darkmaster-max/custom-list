@@ -13,7 +13,7 @@
 ||tpc.googlesyndication.com^
 ||federatedcompute-pa.googleapis.com^
 ||collector.github.com^
-||youtube.com/youtubei/v1/log_event?^
+
 ||google.com/log?$redirect=nooptext^
 ||mobile-data.onetrust.io^
 ||federatedcompute-pa.googleapis.com^
@@ -27,14 +27,12 @@
 ||api.github.com/_private/browser/rum?^
 ||api.github.com/_private/browser/stats$important^
 ||collector.github.com^
-||youtube.com/youtubei/v1/log_event?^
 ||google.com/log?$redirect=nooptext^
 ||mobile-data.onetrust.io^
 ||federatedcompute-pa.googleapis.com^
 |||api.github.com/_private/browser/rum?^
 ||api.github.com/_private/browser/stats$important^
 ||collector.github.com^
-||youtube.com/youtubei/v1/log_event?^
 ||google.com/log?$redirect=nooptext^
 ||mobile-data.onetrust.io^
 ||federatedcompute-pa.googleapis.com^
