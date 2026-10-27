@@ -66,3 +66,4 @@
 ||googletagservices.com^
 ||app.adjust.io^
 ||netmera.com^
+||crashlytics.com^
