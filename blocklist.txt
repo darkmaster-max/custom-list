@@ -64,3 +64,4 @@
 ||crashlytics.com^
 ||ogads-pa.googleapis.com^
 ||.tr/ads/^
+||safeframe.googlesyndication.com^
