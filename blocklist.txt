@@ -61,3 +61,4 @@
 ||2cnt.net^
 ||google.com/pagead/
 ||static.airbridge.io/sdk/
+||taboola.com^$third-party
