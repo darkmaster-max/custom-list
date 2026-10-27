@@ -64,3 +64,4 @@
 ||api.ad.intl.xiaomi.com^
 ||dit.whatsapp.net^
 ||googletagservices.com^
+||app.adjust.io^
