@@ -41,13 +41,11 @@
 ||mobile-data.onetrust.io^
 ||tpc.googlesyndication.com^
 ||federatedcompute-pa.googleapis.com^
-||$app=com.miui.analytics
 ||app.adjust.world^
 ||pagead2.googlesyndication.com^
 ||tracking.*.miui.com^||app.adjust.com^$~th
 ||metricreceiver.cellrebel.com^
 ||xy.fbcdn.net^
-||$app=com.miui.analytics^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||app-measurement.com^
 ||google-analytics.com^
