@@ -60,3 +60,4 @@
 ||googletagmanager.com/gtag/$third-party
 ||2cnt.net^
 ||google.com/pagead/
+||static.airbridge.io/sdk/
