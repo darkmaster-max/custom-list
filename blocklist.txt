@@ -70,4 +70,3 @@
 ||medya.ilan.gov.tr/widgets/
 ||gstatic.com/firebasejs/
 ||blogger.googleusercontent.com/img/
-||cdn.jsdelivr.net^
