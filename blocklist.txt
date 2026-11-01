@@ -69,3 +69,4 @@
 ||tmgrup.com.tr^*/tmdconsent/
 ||medya.ilan.gov.tr/widgets/
 ||gstatic.com/firebasejs/
+||blogger.googleusercontent.com/img/
