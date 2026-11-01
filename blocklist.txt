@@ -66,3 +66,4 @@
 ||birgun.net/api/OfficialAds/
 ||haberler.com/mstatic/assets/
 ||i.tmgrup.com.tr/tmdwebpush/
+||tmgrup.com.tr^*/tmdconsent/
