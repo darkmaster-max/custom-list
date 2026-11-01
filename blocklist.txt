@@ -64,7 +64,7 @@
 ||taboola.com^$third-party
 ||birgun.net/api/Ads/
 ||birgun.net/api/OfficialAds/
-||haberler.com/mstatic/assets/
+||haberler.com/mstatic/
 ||i.tmgrup.com.tr/tmdwebpush/
 ||tmgrup.com.tr^*/tmdconsent/
 ||medya.ilan.gov.tr/widgets/
