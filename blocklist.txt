@@ -62,3 +62,4 @@
 ||google.com/pagead/
 ||static.airbridge.io/sdk/
 ||taboola.com^$third-party
+||birgun.net/api/Ads
