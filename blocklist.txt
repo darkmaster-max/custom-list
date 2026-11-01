@@ -63,3 +63,4 @@
 ||static.airbridge.io/sdk/
 ||taboola.com^$third-party
 ||birgun.net/api/Ads/
+||birgun.net/api/OfficialAds/
