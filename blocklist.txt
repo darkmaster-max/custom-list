@@ -68,3 +68,4 @@
 ||i.tmgrup.com.tr/tmdwebpush/
 ||tmgrup.com.tr^*/tmdconsent/
 ||medya.ilan.gov.tr/widgets/
+||gstatic.com/firebasejs/
