@@ -64,3 +64,4 @@
 ||taboola.com^$third-party
 ||birgun.net/api/Ads/
 ||birgun.net/api/OfficialAds/
+||haberler.com/mstatic/assets/js/prebid*
