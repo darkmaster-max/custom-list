@@ -71,3 +71,4 @@
 ||gstatic.com/firebasejs/
 ||blogger.googleusercontent.com/img/
 ||google.com/g/
+||google.com.tr/ads/
