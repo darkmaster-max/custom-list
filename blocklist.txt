@@ -72,3 +72,17 @@
 ||blogger.googleusercontent.com/img/
 ||google.com/g/
 ||google.com.tr/ads/
+||tracking.miui.com^
+||tr.tracking.miui.com^
+||analytics.miui.com^
+||data.mistat.xiaomi.com^
+||log.mistat.xiaomi.com^
+||feedback.miui.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||api.ad.intl.xiaomi.com^
+||ad.intl.xiaomi.com^
+||o2o.api.xiaomi.com^
+||sdk.ad.intl.xiaomi.com^
+||test.ad.intl.xiaomi.com^
+||global.ad.intl.xiaomi.com^
+||app.sec.intl.miui.com^
