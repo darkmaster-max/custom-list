@@ -64,3 +64,11 @@
 ||bugsnag.com^
 ||rayjump.com^
 ||supersonicads.com^
+||data.sec.miui.com^
+||adv.sec.intl.miui.com^
+||flurry.com^
+||scorecardresearch.com^
+||branch.io^
+||startappexchange.com^
+||smaato.net^
+||braze.com^
