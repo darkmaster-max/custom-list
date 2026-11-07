@@ -51,3 +51,16 @@
 ||tracking.*.miui.com^
 ||tracking.miui.com^
 ||xy.fbcdn.net^
+||a.stat.xiaomi.com^
+||bsp.sec.miui.com^
+||geofence.sys.miui.com^
+||resolver.msg.xiaomi.net^
+||applvn.com^
+||inmobi.com^
+||vungle.com^
+||t.appsflyer.com^
+||kochava.com^
+||cdp.cloud.unity3d.com^
+||bugsnag.com^
+||rayjump.com^
+||supersonicads.com^
