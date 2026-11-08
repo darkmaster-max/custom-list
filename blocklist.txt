@@ -1,9 +1,3 @@
-@@||imasdk.googleapis.com^$domain=tabii.com
-@@||googleads.g.doubleclick.net^$domain=tabii.com
-@@||doubleclick.net^$domain=tabii.com
-@@||g.doubleclick.net^$domain=tabii.com
-@@||gvt2.com^$domain=tabii.com
-@@||googletagmanager.com^$domain=tabii.com
 ||2cnt.net^
 ||ad.intl.xiaomi.com^
 ||adv.sec.miui.com^
