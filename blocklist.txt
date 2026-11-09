@@ -69,3 +69,5 @@
 ||startappexchange.com^
 ||smaato.net^
 ||braze.com^
+||g.doubleclick.net^
+||analytics.avcdn.net^
