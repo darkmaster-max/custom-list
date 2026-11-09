@@ -71,3 +71,5 @@
 ||braze.com^
 ||g.doubleclick.net^
 ||analytics.avcdn.net^
+||collector.github.com^
+||api.github.com/_private/browser/rum?
