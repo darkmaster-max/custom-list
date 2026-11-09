@@ -73,3 +73,6 @@
 ||analytics.avcdn.net^
 ||collector.github.com^
 ||api.github.com/_private/browser/rum?
+||intl-api-bak.ot.miui.com^
+||ak.ot.miui.com^
+||googleadservices.com^
